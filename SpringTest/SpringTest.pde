@@ -1,7 +1,7 @@
 int velocityY = 0;
 int positionY = 100;
 
-int timeStep = 1;
+int timeStep = 2;
 
 
 void setup(){
